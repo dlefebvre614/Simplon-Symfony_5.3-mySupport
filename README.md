@@ -32,3 +32,5 @@ Create acount on gitHub.
 ```
 
 I am the only back-end developer of the project. My pushes are done on [https://github.com/dlefebvre614/Simplon-Symfony_5.3-mySupport.git](https://ssl.microsofttranslator.com/bv.aspx?ref=TAns&from=&to=en&a=https%3A%2F%2Fgithub.com%2Fdlefebvre614%2FSimplon-Symfony_5.3-mySupport.git).
+
+ISSUE #1 Installation of Symfony in branch symfony.
